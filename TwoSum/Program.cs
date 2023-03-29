@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
-int[] numbers = { 3, 3 };
-int targert = 6;
+int[] numbers = { 2, 3, 8, 2 };
+int targert = 4;
 
 Solution solution = new Solution();
 
